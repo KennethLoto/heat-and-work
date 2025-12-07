@@ -11,9 +11,7 @@ This is an educational website built to explore the concepts of **Heat and Work*
 | File / Folder | Purpose |
 |---------------|---------|
 | `index.html`  | Main HTML file containing the navigation, layout, and content for all sections (home, pretest, discussion, etc.) |
-| `css/` (or `style.css`) | CSS file that defines the layout, styling, and visual appearance of the website. |
-| `assets/` (if any) | Contains images, icons, or other media used in the website (e.g. team pictures, charts, thermodynamic diagrams). |
-| … | Any additional resources or files used to enhance the website (e.g. custom fonts, external libraries). |
+| `css/` | CSS file that defines the layout, styling, and visual appearance of the website. |
 
 ## ✅ Features & Sections
 
